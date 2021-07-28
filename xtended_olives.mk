@@ -34,7 +34,9 @@ WITH_GAPPS := false
 
 # Xtended stuff
 XTENDED_BUILD_MAINTAINER := skittels15
-XTENDED_BUILD_TYPE := UNOFFICIAL
+XTENDED_BUILD_TYPE := OFFICIAL
+XTENDED_BUILD_SUPPORT_URL := https://t.me/redmi8gsi
+XTENDED_BUILD_DONATE_URL := https://ko-fi.com/beerdman
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
